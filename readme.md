@@ -7,7 +7,7 @@
 
 ## How to use
 
-1. Install Nodejs if you don't. [Official Site](https://nodejs.org)
+1. Install Nodejs if you don't have it. [Official Site](https://nodejs.org)
 2. Run `prep.bat` if you're on Windows 10/11 or `prep.sh` if on MacOS or Linux
 3. After that closes and run `start.bat` or `start.sh` respectively
 4. Input the data as it asks
