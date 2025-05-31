@@ -57,7 +57,7 @@ async function start() {
                         preferences: preferences
                     }
                 });
-                if (!newpref.statusCode == 200){
+                if (newpref.statusCode != 200){
                     console.log("Failed Setting Birthday Try Again");
                     return interface.close();
                 }
